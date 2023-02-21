@@ -1,10 +1,16 @@
-I am a student at Amity University, Madhya Pradesh, India. I have been an extremely positive and enthusiastic person who is admired by many of my professors as well as my batchmates. 
-I am currently studying in my 3rd year and will be a graduate in the year 2024, In past, I took part in Hackathon as well as several coding contests that were held in my college by my college's coding club named "Amity Coding Club".
-Apart from the coding competition, I organised a tournament for BGMI in my college fest and was in the core management team.
+Hello, I'm Kinshuk Dayal Saraswat, a passionate 3rd year Computer Science student from Amity University, Madhya Pradesh. My love for technology and innovation led me to pursue a career in this field, and I am constantly seeking to expand my knowledge and skills.
 
-In the next few decades, This World will be entirely dependent on technologies and I'd like to contribute to this development of the world by becoming a software engineer.
+As a student of computer science, I have developed a keen interest in the field of Artificial Intelligence and Machine Learning. I am intrigued by the endless possibilities that these technologies offer and the potential they hold to change the world. To further enhance my skills, I am currently pursuing a specialization in Data Science, which I believe is an essential skillset in today's world.
 
-When I am not working I usually spend my time playing with a bunch of street dogs and listening to music and watching travel vlogs on Youtube.
+In addition to my interest in AI and Data Science, I have a strong foundation in C++ and Data Structures and Algorithms. I have also gained experience in Android app development, which I find both challenging and rewarding. Furthermore, I have knowledge of front-end development with HTML and CSS, which has allowed me to create visually appealing websites.
+
+Apart from my technical skills, I am a self-motivated individual with excellent communication skills, which I believe are crucial in the tech industry. I am always eager to learn and grow, and I strive to keep myself updated with the latest technologies and trends.
+
+I am excited about the opportunities that lie ahead, and I am looking forward to contributing my skills and knowledge to create innovative solutions and make a difference in the world of technology.
+
+
+
+
 
 <!---
 kinshuk-ds/kinshuk-ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
