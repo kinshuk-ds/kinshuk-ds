@@ -1,8 +1,12 @@
 ## Hi there 👋
 🚀 Master’s Student in Data Science @ FAU Erlangen
+
 🧠 Building ML/NLP projects with Python, PyTorch & Scikit-learn
+
 💬 Interested in LLMs, applied AI, and solving real-world problems
+
 📂 Explore my work: Toxicity Detection, Language Classifier, DDQN Rocket Agent
+
 📬 Open to collaborations & student research roles
 
 
