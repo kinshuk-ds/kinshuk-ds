@@ -1,4 +1,10 @@
 ## Hi there 👋
+🚀 Master’s Student in Data Science @ FAU Erlangen
+🧠 Building ML/NLP projects with Python, PyTorch & Scikit-learn
+💬 Interested in LLMs, applied AI, and solving real-world problems
+📂 Explore my work: Toxicity Detection, Language Classifier, DDQN Rocket Agent
+📬 Open to collaborations & student research roles
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kinshuk-dayal-saraswat-217551177/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dayalkinshuk@gmail.com) 
